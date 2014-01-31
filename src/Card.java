@@ -1,4 +1,5 @@
 /**
+ * v0
  * Card class is one of core parent class, declare the property of a card, 
  * and create accessers to do something to the card.
  */
